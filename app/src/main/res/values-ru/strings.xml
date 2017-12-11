@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Привет мир!</string>
+    <string name="points">Очки:</string>
+    <string name="game_over">Игра окончена :(</string>
+
+</resources>

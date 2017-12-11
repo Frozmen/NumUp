@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NumUp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="points">Points:</string>
+    <string name="title_activity_after_game">AfterGameActivity</string>
+    <string name="game_over">GameOver:(</string>
+    <string name="yours_score">Your score:</string>
+    <string name="race_with_time">Race with time</string>
+    <string name="survival">Survival</string>
+    <string name="classic">Classic</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="general">General</string>
+    <string name="right">Right</string>
+    <string name="wrong">Wrong</string>
+    <string name="instr1">Just click on the right block and you will have +1 score</string>
+    <string name="timelimit">TimeLimit</string>
+    <string name="about_survival">In this mod you have only one chance to set a new HighScore. One fault and you will lose!!! </string>
+    <string name="about_timelimit">There will be a timer - 2 minutes. Every fault costs you 10 sec, but right click give you + 2 sec. Of course, time is  running =)  </string>
+    <string name="three_live">3 Lives</string>
+    <string name="about_3lives">It looks like Survival mod but with lives. Every fault costs you 1 heart. 3 chance! Not a few =)</string>
+</resources>
